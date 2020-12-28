@@ -8,4 +8,5 @@ def most_frequent(string):
             d[key] += 1
     return d;
 
-print (most_frequent('aabbbc'))
+print ("input: please enter a string")
+print (most_frequent("mississippi")
